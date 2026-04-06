@@ -6,12 +6,6 @@
 
 ---
 
-## Professional Summary
-
-Recent graduate with a Master's degree in MIAGE (Information Systems Engineering and Business Process Management), passionate about software development and data analysis. Strong analytical mindset with experience building KPI dashboards and data-driven tools.
-
----
-
 ## Experience
 
 ### Python Developer Intern - KPI Visualization
